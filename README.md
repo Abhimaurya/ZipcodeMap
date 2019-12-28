@@ -1,1 +1,3 @@
-# ZipcodeMap
+# Postal-Code-MAP
+
+##Installation
