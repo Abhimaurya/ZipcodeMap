@@ -27,7 +27,7 @@ class Map extends Component {
     return(
        <div>
          <MapShow
-           containerElement={ <div style={{ height: `500px`, right:'30px',bottom:'30px', width: '500px' ,float:'right' ,top: '100px',position:'relative'}} /> }
+           containerElement={ <div className="mapContainer"/> }
            mapElement={ <div style={{ height: `100%` }} /> }
          />
        </div>
