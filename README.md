@@ -22,7 +22,7 @@ It is basically Postal MAP website.
 
 To see the project on browser kindly hit the blow url on Browser.
 
-### https://abhimaurya.github.io/MemeCreator/
+### https://abhimaurya.github.io/ZipcodeMap/
 
 ## Installation
 
