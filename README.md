@@ -2,7 +2,7 @@
 
 This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Important
+## Important
 I didn't bill for the google map ,so you will get popup on google map and click on OK (It is for development purpose).
 On hover of Red Marker on google map it will show current state of location.
 
