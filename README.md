@@ -1,6 +1,6 @@
 # Postal-Code-MAP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## About Project
 
